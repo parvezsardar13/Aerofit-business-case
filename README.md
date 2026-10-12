@@ -55,18 +55,6 @@ Aerofit is a leading brand in the field of fitness equipment, providing a produc
 - **Age is Independent of Intensity:** Age shows virtually no correlation with workout intensity ($r \approx 0.02–0.06$), weekly usage, fitness, or target distance, indicating that older customers purchase treadmills for similar intensity goals as younger buyers.
 - **Marital Status Parity:** Marital status shows almost equal distribution across product choices (~59% partnered, ~41% single), making it a weak differentiator for product tier selection.
 
-## 📉 Visualizations
-![Age vs Product](images/age-vs-product.png)
-*Distribution of customer age across product models, showing nearly identical median age (~26–27 years) across all three tiers.*
-
-![Income vs Product Boxplot](images/income-vs-product.png)
-*Boxplot comparison demonstrating that higher annual income is the single strongest financial predictor for purchasing the top-tier KP781 treadmill.*
-
-![Correlation Heatmap](images/correlation-heatmap.png)
-*Correlation matrix heatmap highlighting strong positive linear relationships between weekly usage, fitness ratings, and target mileage.*
-
-![Conditional Probability Fitness](images/conditional-prob-fitness.png)
-*Conditional probability distribution showing that self-reported fitness levels 4 and 5 concentrate heavily on the premium KP781 model.*
 
 ## 📋 Recommendations
 1. **Segment Marketing by Income & Fitness:** Focus digital campaigns and ad spend on income brackets and self-reported fitness levels rather than broad demographic variables like age or marital status.
