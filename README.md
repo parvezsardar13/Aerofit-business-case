@@ -2,7 +2,12 @@
 *A comprehensive exploratory data analysis of customer demographics, purchasing patterns, and probabilistic profiling to optimize treadmill recommendations.*
 
 ## 📌 Badges
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Colab](https://img.shields.io/badge/Jupyter-Colab-orange.svg) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243.svg)
+![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-3776AB.svg)
+![SciPy](https://img.shields.io/badge/SciPy-Statistics-8CAAE6.svg)
 
 ## 🎯 Project Overview
 Aerofit is a leading brand in the field of fitness equipment, providing a product range including treadmills, exercise bikes, gym equipment, and fitness accessories. This case study analyzes customer purchase behavior to identify the distinct target audience characteristics for each treadmill model. By understanding the demographic and behavioral profiles of buyers, Aerofit can enhance its product recommendations and target future marketing campaigns effectively.
