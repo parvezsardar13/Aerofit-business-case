@@ -19,7 +19,7 @@ Aerofit is a leading brand in the field of fitness equipment, providing a produc
 - How can Aerofit better recommend products to new customers and optimize its marketing and upsell strategies?
 
 ## 📊 Dataset
-- **Source:** [ADD DATASET LINK] (`aerofit_treadmill.csv`)
+- **Source:** (`aerofit_treadmill.csv`)
 - **Dimensions:** 180 rows, 9 columns
 
 | Column Name | Data Type | Description |
